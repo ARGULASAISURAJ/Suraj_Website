@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sai Suraj Argula</title>
-    <link>https://example.com/post/</link>
+    <link>https://argulasaisuraj.github.io/Suraj_Website/post/</link>
     <description>Recent content in Projects on Sai Suraj Argula</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://argulasaisuraj.github.io/Suraj_Website/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 2: Neighborhood segmentation and Clustering in Tampa</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://argulasaisuraj.github.io/Suraj_Website/post/project-2/</link>
       <pubDate>Sat, 06 Jun 2020 11:21:59 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://argulasaisuraj.github.io/Suraj_Website/post/project-2/</guid>
       <description>In this project, I have segmented neighborhoods in the city of Tampa, and clustered them with unsupervised learning, to suggest new neighborhood to set up business. In this particular project, I have used movie theatre as a business.
   Neighbourhood Clustering in Tampa   This Project’s GitHub Repository</description>
     </item>
     
     <item>
       <title>Project 1: Estimation of Healthcare cost and Healthcare Quality in OECD Countries</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://argulasaisuraj.github.io/Suraj_Website/post/project-1/</link>
       <pubDate>Sat, 06 Jun 2020 11:08:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://argulasaisuraj.github.io/Suraj_Website/post/project-1/</guid>
       <description>Statistical modelling helps us to determine where our research needs to be focused and realize the factors that impact the healthcare quality and expenses.
   The main objective of our research and analysis is to understand how to minimize the health expenses while improving or maintaining the same health quality.
   Collection of data and data source play a paramount role in the analysis. we have built our own dataset by taking the data from reliable resources such as OECD and WHO after analyzing the literature.</description>
