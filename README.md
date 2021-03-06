@@ -1,3 +1,5 @@
 # Suraj_Website
 
-This is an older repository,Changed for increased productivity - https://sai-suraj-argula.mystrikingly.com/
+This is an older Website, Changed for increased productivity to new one -
+Please click to visit
+### https://sai-suraj-argula.mystrikingly.com/
